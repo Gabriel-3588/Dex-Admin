@@ -20,4 +20,4 @@ Foi feito usando 100% Lua/Luau no roblox studio. Por um desenvolvedor solo!
 
 ## Comunity
 
-Entre em nosso discord para mais novidades incriveis, ou suporte/sugestões para o Dex Admin ~ [Releases](https://github.com/Gabriel-3588/FastFps/releases)
+Entre em nosso discord: [Dex Admin Community] (https://discord.gg/VTvXHehtGW) para mais novidades incriveis, ou suporte/sugestões para o Dex Admin ~ [soy_gabriel3588](https://github.com/Gabriel-3588/FastFps/releases)
