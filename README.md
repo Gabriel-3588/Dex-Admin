@@ -20,7 +20,7 @@
 
  - Foi feito usando 100% Lua/Luau no Roblox Studio. Por um desenvolvedor solo!
  - Se usarmos algum ativo seu ou quiser receber seu cargo de Contribuidor entre em nosso discord é abra um [Ticket](https://discord.gg/VTvXHehtGW)!
- - Fique à vontade para contribuir ou modificar o Dex Admin de acordo com a [License MIT](https://discord.gg/VTvXHehtGW)
+ - Fique à vontade para contribuir ou modificar o Dex Admin de acordo com a [License MIT](https://github.com/Gabriel-3588/Dex-Admin/blob/main/LICENSE.md)
 
 ## Community
 
