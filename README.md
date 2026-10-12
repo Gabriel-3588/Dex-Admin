@@ -11,7 +11,7 @@
 ## Features
 
  - CommandBar incrivel, é muito fácil de usar com autocomplete muito funcional é com uma Interface muito bonita.
- - Sistema de notificações, avisos de classificação ou erros na hora de executar um comando. É com substituto.
+ - Sistema de notificações, avisos de classificação ou erros na hora de executar um comando.
  - É extremamente leve e conta com uma interface profissional projetada tanto para Mobile e PC.
  - Compatível com o TopbarPlus, ou seja, não vai bugar quando você usar o CommandBar.
  - Recebe atualizações com frequência.
