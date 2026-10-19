@@ -12,6 +12,6 @@ Um sistema de administração extremamente leve e fácil de usar. Ele conta com 
  - Fácil de `configurar`: Inclui um arquivo `READ_ME` que explica como adcionar comandos/types novos ao `Dex Admin`.
  - E muito mais!
 ## 📊 Contributors
-- [Gabriel @Soy_Gabriel (Founder)](https://www.roblox.com/pt/users/11135429425/profile)
+- [Gabriel @Sou_Gabriel (Founder)](https://www.roblox.com/pt/users/11836730866/profile)
 ## 📦 Community
- - Se gostou do `projeto` ou usamos algum `ativo(asset)` seu entre em nosso [discord](https://discord.gg/VTvXHehtGW)! para ganhar seu cargo de `contribuidor` ou acompanhar o projeto de perto, [Soy_Gabriel3588](https://www.roblox.com/pt/users/11135429425/profile)
+ - Se gostou do `projeto` ou usamos algum `ativo(asset)` seu entre em nosso [discord](https://discord.gg/VTvXHehtGW)! para ganhar seu cargo de `contribuidor` ou acompanhar o projeto de perto, [Sou_Gabriel3588](https://www.roblox.com/pt/users/11836730866/profile)
