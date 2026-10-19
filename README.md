@@ -1,27 +1,17 @@
-# Dex Admin (Open-Source)
-
-É um projeto público de código aberto que é um `Admin System(Sistema de Admin)` que está disponível apenas para Roblox Studio que ajuda os jogadores a administrar bem o jogo em geral, contendo diversas funcionalidades incriveis é super faceis de usar para facilitar o uso do roblox ou funções em geral.
-
-## Installation
-
-1. Baixe o Dex Admin `.rbxm` vá na página de [Releases](https://github.com/Gabriel-3588/Dex-Admin/releases) baixe la.
-2. Coloque o arquivo `.rbxm` no roblox studio é lido ou READ_ME dentro dele para ajudar a configuração é o uso.
-3. Apenas compatível com o roblox studio, NÃO RECOMENDO QUE MEXA NA API APENAS EM CASOS NECESSÁRIOS!
-
-## Features
-
- - CommandBar incrivel, é muito fácil de usar com autocomplete muito funcional é com uma Interface muito bonita.
- - Sistema de notificações, avisos de classificação ou erros na hora de executar um comando.
- - É extremamente leve e conta com uma interface profissional projetada tanto para Mobile e PC.
- - Compatível com o TopbarPlus, ou seja, não vai bugar quando você usar o CommandBar.
- - Recebe atualizações com frequência.
-
-## Contributors
-
- - Foi feito usando 100% Lua/Luau no Roblox Studio. Por um desenvolvedor solo!
- - Se usarmos algum ativo seu ou quiser receber seu cargo de Contribuidor entre em nosso discord é abra um [Ticket](https://discord.gg/VTvXHehtGW)!
- - Fique à vontade para contribuir ou modificar o Dex Admin de acordo com a [License MIT](https://github.com/Gabriel-3588/Dex-Admin/blob/main/LICENSE.md)
-
-## Community
-
-Se gostou do projeto entre em nosso discord: [Dex Admin](https://discord.gg/VTvXHehtGW) para mais novidades incríveis, ou suporte/sugestões para o Dex Admin ~ [soy_gabriel3588](https://www.roblox.com/pt/users/11135429425/profile)
+# 💻 Dex Admin (Open-Source)
+Um sistema de administração extremamente leve e fácil de usar. Ele conta com recursos fantásticos, essenciais para qualquer desenvolvedor — seja para tarefas de `moderação` ou simplesmente para se `divertir` com comandos pré-configurados. Disponível exclusivamente para `Roblox Studio`!
+## ❤ Instalação
+1. Baixe o arquivo `.rbxm` do Dex Admin na página de [Releases](https://github.com/Gabriel-3588/Dex-Admin/releases).
+2. Arraste e solte o arquivo no Roblox Studio, inicie o modo de teste (Play) e `aproveite` o Dex Admin! :D
+3. `Observação:` Não é recomendado modificar a API interna do Dex Admin, pois isso pode comprometer todo o sistema!
+## ⭐ Recursos
+ - `Mais de 50` comandos extremamente úteis e impressionantes — práticos e simples de utilizar.
+ - `Auto-Update`: O sistema é atualizado automaticamente para corrigir erros e adicionar novas funcionalidades. `Observação:` Para manter-se atualizado, entre em nosso servidor no [Discord!](https://discord.gg/VTvXHehtGW)
+ - `CommandBar` (barra de comandos) com preenchimento automático, intuitiva e totalmente funcional tanto em `PCs` quanto em `Mobiles`.
+ - `Cmds`: Um comando que lista todos os comandos disponíveis, junto de seus detalhes.
+ - Fácil de `configurar`: Inclui um arquivo `READ_ME` que explica como adcionar comandos/types novos ao `Dex Admin`.
+ - E muito mais!
+## 📊 Colaboradores
+- [Gabriel @Soy_Gabriel (Founder)](https://www.roblox.com/pt/users/11135429425/profile)
+## 📦 Comunidade
+ - Se gostou do `projeto` ou usamos algum `ativo(asset)` seu entre em nosso [discord](https://discord.gg/VTvXHehtGW)! para ganhar seu cargo de `contribuidor` ou acompanhar o projeto de perto, [Soy_Gabriel3588](https://www.roblox.com/pt/users/11135429425/profile)
